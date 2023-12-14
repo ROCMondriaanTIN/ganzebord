@@ -1,0 +1,24 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+	display: flex;
+}
+
+.box {
+	width: 100px;
+	height: 100px;
+	border: 1px solid gray;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.goose {
+	width: 24px;
+	height: 24px;
+	background-color: tomato;
+	border: 1px solid black;
+}
